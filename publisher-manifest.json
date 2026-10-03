@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "fa671fc661a3a0046f397a8e",
+  "owner": "pgsufnfvt",
+  "repo": "page-a56d999b201aa7fb0a1d9263",
+  "title": "99吧",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "a56d999b201aa7fb0a1d9263",
+      "a": "99吧",
+      "b": "",
+      "entity": "99吧",
+      "brand": "99吧",
+      "separator": "",
+      "path": "index.html",
+      "hash": "519624e382ea10f9d74743cd5ff4c8fbd35a672222eb273a1d8c17a66a55f467",
+      "content": {
+        "keyword1": "99吧",
+        "keyword2": "",
+        "primary_entity": "99吧",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "99吧是提供机场订阅与VPN网络加速的官方服务平台，覆盖多端客户端下载、全球节点与灵活套餐，适用于办公、流媒体解锁及游戏加速场景。",
+          "AI_DESCRIPTION": "99吧是提供机场订阅与VPN网络加速的官方服务平台，覆盖多端客户端下载、全球节点与灵活套餐，适用于办公、流媒体解锁及游戏加速场景。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box}body{margin:0;font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;background:#F7F5F0;color:#1A211C;line-height:1.75;font-size:16px;overflow-x:hidden}a{color:#1E4D3A}header{background:#1E4D3A;color:#F7F5F0;padding:14px 0}.wrap{max-width:1080px;margin:0 auto;padding:0 16px}.nav{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:10px}.brand{font-weight:700;font-size:1.35rem;color:#fff;text-decoration:none}.nav-links{display:flex;flex-wrap:wrap;gap:14px}.nav-links a{color:#DCE8E0;text-decoration:none;font-size:0.92rem}main{padding:8px 0 40px}h1{font-size:1.75rem;color:#1E4D3A;line-height:1.35;margin:28px 0 16px}h2{font-size:1.4rem;color:#1E4D3A;margin:36px 0 14px;padding-bottom:8px;border-bottom:2px solid #2F6A4A}h3{font-size:1.12rem;color:#245C40;margin:18px 0 8px}p{margin:0 0 14px}.lead{font-size:1.05rem}.row{display:flex;flex-wrap:wrap;gap:28px;margin:20px 0;align-items:flex-start}.row.rev{flex-direction:row-reverse}.col{flex:1 1 280px}.card{background:#fff;border:1px solid #D5E4DA;border-radius:10px;padding:20px;margin-bottom:8px}.plans{display:flex;flex-wrap:wrap;gap:18px;margin:16px 0}.plan{flex:1 1 240px;background:#fff;border:1px solid #D5E4DA;border-radius:10px;padding:22px 20px}.plan.feat{border:2px solid #1E4D3A;background:#EEF6F1}.badge{display:inline-block;background:#1E4D3A;color:#fff;font-size:0.75rem;padding:2px 8px;border-radius:4px;margin-bottom:8px}.price{font-size:1.55rem;font-weight:700;color:#1E4D3A;margin:6px 0}.sub{color:#4A5C52;font-size:0.9rem;margin-bottom:12px}.plan ul{margin:0;padding-left:18px}.plan li{margin:6px 0}.faq-block{background:#EEF6F1;padding:20px 16px;border-radius:10px;margin:12px 0 8px}details{background:#fff;border:1px solid #C9DCD0;border-radius:8px;margin:12px 0;padding:4px 14px}summary{font-weight:600;color:#1E4D3A;padding:10px 0}details p{padding:0 0 12px;color:#2A332E}.ad{background:#E7F2EB;border:1px dashed #2F6A4A;border-radius:8px;padding:18px;text-align:center;margin:28px 0}.map ul,.friends{display:flex;flex-wrap:wrap;gap:8px 16px;list-style:none;padding:0;margin:8px 0}.friends a,.map a{color:#1E4D3A}footer{background:#163B2D;color:#D5E4DA;padding:28px 0;font-size:0.88rem}footer a{color:#B7D4C4;text-decoration:none;margin-right:12px}@media(max-width:720px){.row,.row.rev{flex-direction:column}.nav{align-items:flex-start}h1{font-size:1.48rem}.plan{flex:1 1 100%}}</style><header><div class=\"wrap nav\"><a class=\"brand\" href=\"#\">99吧</a><div class=\"nav-links\"><a href=\"#intro\">简介</a><a href=\"#scenes\">场景</a><a href=\"#plans\">套餐</a><a href=\"#guide\">使用说明</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a><a href=\"#links\">友链</a></div></div></header><main class=\"wrap\"><h1>99吧官方机场与 VPN 网络加速服务</h1><p class=\"lead\">99吧面向需要稳定梯子与机场订阅的用户，提供可验证的官方套餐、多平台客户端下载以及覆盖办公、流媒体与游戏的网络加速线路。本页介绍品牌定位、套餐差异、导入步骤与常见问题，方便你一次性完成订阅与连接。</p><section id=\"intro\"><h2>品牌简介</h2><div class=\"row\"><div class=\"col\"><p>99吧（亦称 99吧机场）专注于机场订阅与 VPN 加速体验。我们把节点质量、订阅兼容性和客户端指引放在首位，让用户减少试错成本。无论你使用 Clash 系、V2Ray 系还是 Shadowrocket，都可以用同一份订阅在不同设备间同步。</p><p>服务覆盖个人基础需求到小团队协作：从每月固定流量的轻量方案，到 IPLC 游戏优化与高并发设备数的团队方案，均可在官方渠道完成开通。99吧以可落地的线路说明、设备限制和工单机制帮助用户做选择，并强调通过官网获取订阅。</p></div><div class=\"col\"><div class=\"card\"><h3>官方身份与交付</h3><p>请通过本站公布的入口获取套餐与客户端说明，订阅链接由 99吧 官方签发。建议保存好订阅 URL，并定期在客户端内更新节点，以获得最新线路与规则。</p><p>旗舰版与团队版提供更优先的工单通道，适合对延迟与可用性有持续要求的用户。基础版同样可在多端使用同一订阅。</p></div></div></div></section><section id=\"scenes\"><h2>使用场景</h2><div class=\"row rev\"><div class=\"col\"><h3>跨境办公与资料检索</h3><p>远程会议、代码仓库、学术数据库与云盘同步对稳定性和会话保持要求较高。99吧普通节点池即可满足日常办公；需要更低抖动时，可选择旗舰版中的优质线路，减少反复重连。</p></div><div class=\"col\"><h3>流媒体观看与内容解锁</h3><p>基础版提供基础流媒体解锁能力；旗舰版强调全节点原生解锁体验，减少地区检测失败。实际效果随平台策略变化，建议在客户端中切换节点验证后再收藏常用线路。</p></div></div><div class=\"row\"><div class=\"col\"><h3>游戏加速与实时对战</h3><p>旗舰版包含 IPLC 专线游戏加速优化，适合对延迟敏感的对战与更新下载。选择离你更近、标注游戏优化的节点，并按客户端说明开启相应模式。</p></div><div class=\"col\"><h3>多设备与团队共用</h3><p>基础版 3 台、旗舰版 5 台、团队版 20 台同时在线。家庭或工作室可将订阅导入各自客户端，配合分流规则区分国内直连与代理流量，避免把本地访问也计入套餐流量。</p></div></div></section><section id=\"plans\"><h2>官方套餐与订阅方案</h2><p>以下为 99吧 当前公开套餐。流量按自然月统计，年付可锁定优惠价格。设备数为同时在线上限。购买后即可在账户中复制订阅链接，用于各客户端导入，完成梯子与网络加速配置。</p><div class=\"plans\"><div class=\"plan\"><h3>基础版</h3><div class=\"price\">¥15/月</div><div class=\"sub\">按年付仅需 ¥150/年</div><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></div><div class=\"plan feat\"><div class=\"badge\">推荐</div><h3>旗舰版</h3><div class=\"price\">¥35/月</div><div class=\"sub\">按年付仅需 ¥350/年</div><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></div><div class=\"plan\"><h3>团队版</h3><div class=\"price\">¥85/月</div><div class=\"sub\">按年付仅需 ¥850/年</div><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></div></div></section><section id=\"guide\"><h2>操作说明与客户端下载</h2><div class=\"row\"><div class=\"col\"><h3>开通与获取订阅</h3><p>在官方套餐页选定基础版、旗舰版或团队版并完成支付后，账户中心会生成通用订阅地址。该地址可同时用于 Clash、Clash Meta、V2Ray、Shadowrocket、Stash 等常见客户端。请勿将订阅公开分享，以免流量被盗用或触发风控。</p><h3 id=\"download\">多端客户端指引</h3><p>99吧不绑定单一闭源客户端，推荐使用社区广泛验证的主流工具。Windows 可使用 v2rayN、Clash Verge；macOS 可使用 ClashX.Meta 或 Surge；iOS 常用 Shadowrocket、Stash；Android 常用 Clash Meta for Android、v2rayNG；Linux 可使用兼容 Clash 或 sing-box 的实现。请到各工具自己的发布渠道获取安装包，再回到 99吧 账户复制订阅并导入。</p></div><div class=\"col\"><div class=\"card\"><h3>导入与连接步骤</h3><p>1. 复制 99吧 账户中的订阅链接。</p><p>2. 打开客户端，添加订阅并更新节点列表。</p><p>3. 根据延迟或用途筛选节点（办公、流媒体、游戏）。</p><p>4. 开启系统代理或 TUN 模式，访问目标网站验证。</p><p>5. 建议配置分流：国内域名直连，避免不必要的流量消耗。</p></div></div></div><h3>日常维护建议</h3><p>节点会不定期调整，请保持客户端自动更新订阅。若某个地区线路拥堵，可切换同区域备用节点。流量将尽时，基础用户可考虑升级旗舰版；团队用户如需定制路由，可通过专属客户经理沟通。遇到证书或时间错误，请先校准设备系统时间后再重试连接。</p></section><section><h2>线路与加速能力</h2><p>99吧节点覆盖亚洲主要出口以及北美、欧洲常用区域，典型落地包括香港、东京、新加坡、洛杉矶与伦敦等。普通节点池适合浏览与资料访问；旗舰与团队可使用更高带宽及 IPLC 优化线路，降低游戏与实时音视频的抖动。具体可用节点以订阅更新后的列表为准。</p><p>网络加速效果受本地宽带、运营商高峰和目标站点策略影响。首次使用建议先测若干节点，收藏延迟与稳定性较好的线路。流媒体解锁采用原生或专线策略，旗舰版覆盖更完整，但仍应以实际播放结果为准，并及时更新规则。</p></section><div class=\"ad\" id=\"ad\">合作展示：企业跨境专线与定制路由咨询，可通过 99吧团队版客户经理了解方案。本区域为品牌合作信息位，仅作文字说明。</div><section id=\"faq\" class=\"faq-block\"><h2>常见问题</h2><p>以下问题覆盖订阅识别、客户端下载、流量、设备数与售后，建议对照操作。每组问题均可展开阅读完整说明。</p><details><summary>99吧是机场还是 VPN？和普通加速器有何不同？</summary><p>99吧以机场订阅方式交付，提供可导入多客户端的代理节点集合，也常被用户称为 VPN 或梯子。与单一封闭加速器相比，你可以自由选择 Clash、Shadowrocket 等工具，自定义分流与规则，同一订阅也能在电脑和手机间复用。</p></details><details><summary>如何确认自己使用的是官方订阅而不是第三方倒卖？</summary><p>请只通过 99吧官网公布的购买与账户入口获取订阅链接。官方链接与套餐名称（基础版、旗舰版、团队版）对应，流量与设备数会在账户中展示。不要轻信来路不明的转发链接，以免账号被重置或线路被滥用。</p></details><details><summary>客户端下载后显示超时或连不上节点怎么办？</summary><p>先检查订阅是否在有效期内并手动更新一次。确认设备时间准确、未开启冲突的其他代理。尝试切换协议或更换同区域节点。若仅个别网站失败，多半是分流规则问题。旗舰用户可走优先工单并附上客户端日志。</p></details><details><summary>99吧支持哪些流媒体，会不会突然失效？</summary><p>基础版面向常见平台的基础解锁；旗舰版强调全节点原生解锁，覆盖用户常用的国际流媒体。平台风控会变化，因此需要以当前节点实测为准。遇到检测失败时，切换旗舰原生节点或更新规则即可，无需反复重装客户端。</p></details><details><summary>流量如何计算？用完能否立刻升级？</summary><p>流量按套餐周期内实际代理流量累计，直连国内站点通常不计入。100GB、300GB、1000GB 分别对应三档。用尽后可能限速或暂停代理，可在账户中升级到更高档。年付用户按年折算更优惠，适合长期把 99吧当作主力加速器的用户。</p></details><details><summary>设备数超限会怎样？家庭成员能共用吗？</summary><p>同时在线超过套餐上限时，部分连接可能被断开。基础版 3 台、旗舰 5 台已能覆盖手机、电脑与平板。家庭共用请选择对应档位，并为每台设备使用同一订阅，但不要在公共网络泄露链接。团队版适合工作室多终端同时在线。</p></details><details><summary>游戏延迟仍然高，旗舰版 IPLC 该怎么用？</summary><p>在客户端中选择标注游戏或 IPLC 的节点，开启 UDP 转发或游戏模式，并尽量关闭占用带宽的下载。物理距离仍是主要因素，优先挑近的区域。普通浏览不必强制占用游戏线路，把专线留给对战与实时语音即可。</p></details></section><section id=\"sitemap\"><h2>网站地图</h2><ul class=\"map\"><li><a href=\"#intro\">品牌简介</a></li><li><a href=\"#scenes\">使用场景</a></li><li><a href=\"#plans\">套餐价格</a></li><li><a href=\"#guide\">操作说明</a></li><li><a href=\"#download\">客户端下载</a></li><li><a href=\"#faq\">常见问题</a></li><li><a href=\"#links\">友情链接</a></li><li><a href=\"#ad\">合作信息</a></li></ul></section><section id=\"links\"><h2>友情链接</h2><div class=\"friends\"><a href=\"#\">Clash 使用说明</a><a href=\"#\">V2Ray 项目简介</a><a href=\"#\">网络加速常识</a><a href=\"#\">分流规则指南</a><a href=\"#\">隐私与安全建议</a></div><p>友链为主题相关资料入口示意，实际文档请以各项目官方说明为准。99吧与上述资料无隶属关系。</p></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><p>© 99吧 官方网站　机场订阅与 VPN 网络加速服务</p><p><a href=\"#\">使用条款</a><a href=\"#\">隐私说明</a><a href=\"#sitemap\">网站地图</a><a href=\"#faq\">帮助中心</a></p><p>本站提供 99吧品牌介绍、套餐对照与客户端导入说明。客户端请使用各工具官方渠道下载，订阅请通过 99吧官方账户获取。</p></div></footer>",
+          "hash": "5bf1cc12c63d14d72d545320e431035675eef92fd101f5c378014447a540d027",
+          "seo": {
+            "title": "99吧官网｜99吧机场订阅、VPN加速器与多端客户端下载",
+            "keywords": "99吧,99吧官网,99吧机场,99吧VPN,机场订阅,VPN客户端,梯子,网络加速,加速器,官方下载,流媒体解锁,IPLC游戏加速",
+            "description": "99吧是提供机场订阅与VPN网络加速的官方服务平台，覆盖多端客户端下载、全球节点与灵活套餐，适用于办公、流媒体解锁及游戏加速场景。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "sqv19l.cn",
+    "host": "p-9dcf5aa336.sqv19l.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "sqv19l.cn",
+      "url": "https://sqv19l.cn/",
+      "label": "Scrssr加速(Scrssr)",
+      "apex": "sqv19l.cn",
+      "kind": null,
+      "identity": "wrhtxava/page-3abfe30c8349329a2dc04c62"
+    },
+    {
+      "host": "rayonmedia.cn",
+      "url": "https://rayonmedia.cn/",
+      "label": "99吧",
+      "apex": "rayonmedia.cn",
+      "kind": null,
+      "identity": "gcwduuufg/page-954402f8f5175edc1b1bb50c"
+    },
+    {
+      "host": "xjurn.cn",
+      "url": "https://xjurn.cn/",
+      "label": "99吧",
+      "apex": "xjurn.cn",
+      "kind": null,
+      "identity": "yxqcax/page-f7f12e51e53d8c1b160a28ec"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "f412571999dda6bee6106b530c05151fb4cb9efe609ea288e1117641959a4492",
+    "sitemap.xml": "f972ec17a1008cf2b1375113f807d3dae4fe779a1a1d4299fd1a7175d4d319c1",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "c0827469b5e2be42d3476abad76ab5bfd0c51789db2978508639627e70bd88d9",
+    "robots.txt": "e5a67306dac99bc37b48fdd0b930f3bd489003559ac255da7d27b65e7d57c9b2",
+    "bea582cf024c9a7c10c16d129e691948.txt": "8cb1c1f1a0a75c0633bb24cb452115110913d12bb1c3905e9011c78620ea6163"
+  },
+  "revision": "84146543d7a389b9c8932c908cdc1a6f1f8730e08ccef4ceec01dded4104f69b"
+}
